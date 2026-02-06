@@ -1,0 +1,29 @@
+{
+  "name": "playbrick",
+  "version": "1.0.0",
+  "description": "A Multiplayer Platform for everyone to play on web",
+  "keywords": [
+    "Multiplayer",
+    "Platform",
+    "WebGL",
+    "Closed"
+  ],
+  "homepage": "https://github.com/DevP4osckbed/PlayBrick#readme",
+  "bugs": {
+    "url": "https://github.com/DevP4osckbed/PlayBrick/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevP4osckbed/PlayBrick.git"
+  },
+  "license": "ISC",
+  "author": "isodev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
